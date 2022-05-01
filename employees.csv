@@ -1,0 +1,6 @@
+id,role,name,username,password,cases
+1,admin,Casper Zin,cazin,1234,0
+2,technician,Carsten Tho,catho,1234,1
+3,technician,Simone Hes,sihes,9812,1
+4,technician,Valon Gut,vagut,9156,0
+5,technician,Julian Lin,julin,9307,0
